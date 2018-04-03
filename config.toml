@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Vaccine Research Center at NIH", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "UNADJUSTEDNONRAW_thumb_5a6.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shamitha.shetty@nih.gov"
   address = "9 W Watkins Mill Rd. Gaithersburg MD 20878"
   phone = "888 888 88 88"
